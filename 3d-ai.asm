@@ -1,4 +1,5 @@
 #Timothy Dusek
+#Spring 2019
 .data
 
 	newBoard:	.ascii "\n\n  | . . . . | . . . . | . . . . | . . . . |   a b c d"
